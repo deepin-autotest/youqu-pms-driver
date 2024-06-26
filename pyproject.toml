@@ -1,5 +1,5 @@
 [project]
-name = "youqu-dogtail"
+name = "youqu-pms-driver"
 description = ""
 authors = [
     { name = "mikigo", email = "huangmingqiang@uniontech.com" },
